@@ -1,2 +1,2 @@
-# Web
-Alles van web
+# Project 3 pizzeria
+
